@@ -1,5 +1,5 @@
 # Site
-title:              Compute 4 Nothing
+title:              Compute For Future
 bio:                'Making World Better'
 description:        "Bring Interesting People Together"
 reading_time:       true
@@ -39,13 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
+#facebook:           username
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
-#lastfm:            username
+#insagram:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
