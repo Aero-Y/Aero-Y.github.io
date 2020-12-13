@@ -1,15 +1,8 @@
 # Site navigation links
-- title: Home
-  url: /
 
 - title: Blog
-  url: /blog/
+  url: https://aero-y.com
 
 - title: Projects
   url: /projects/
 
-- title: About
-  url: /about/
-
-- title: Moon
-  url: http://aero-y.github.io/moon-theme/
