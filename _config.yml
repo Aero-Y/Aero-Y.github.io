@@ -1,5 +1,5 @@
-title:              The art of mesh 
-bio:                'Finite Perfect'
+title:              Yang's Shuttle
+bio:                'This is for knowledge io'
 description:        "A gulf for my PhD life"
 reading_time:       true
 words_per_minute:   200
@@ -25,7 +25,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+#disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,9 +37,9 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+#twitter:            username
 #facebook:           username
-github-url:         username
+github-url:         https://aero-y.github.io
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -48,7 +48,7 @@ github-url:         username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
